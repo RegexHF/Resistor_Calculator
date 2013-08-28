@@ -1,0 +1,25 @@
+Color: RED
+Color: RED
+Multiplier: RED
+Tolerance: GOLD
+Nominal: 2200.0
+Higher: 2310.0
+Lower: 2090.0
+
+Color: RED
+Color: RED
+Multiplier: RED
+Tolerance: GOLD
+Nominal: 2200.0
+Higher: 2310.0
+Lower: 2090.0
+
+Color: RED
+Color: RED
+Color: RED
+Multiplier: RED
+Tolerance: GOLD
+Nominal: 22200.0
+Higher: 23310.0
+Lower: 21090.0
+
